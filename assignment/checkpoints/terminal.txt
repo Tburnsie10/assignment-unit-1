@@ -1,21 +1,36 @@
 # Type your responses on a new line
 
 # 1 - What is the command for listing the files in the current folder (directory)?
+ # 1 Answer: the command is 'ls'
 
 # 2 - What is the command for changing directories?
+ # 2 Answer: the command is 'cd'
 
 # 3 - What is the command for going "up" a folder (to a parent directory)?
+ # 3 Answer: the command is 'cd ..'
 
 # 4 - What is a quick way to create a new folder?
+ # 4 Answer: the quickest way is to go to the directory you want the file in and use 'mkdir' followed by the name of the new folder.
+ ex: 'mkdir Week1'
 
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
+ # 5 Answer: when you 'ls'command an empty folder, the previous command will appear that is the same as when you 'cd' into that folder. However
+ when you 'ls' command a folder with files inside you will see a list of the files in the folder.
 
 # 6 - What is a quick way to create a new file?
+ # 6 Answer: the quick was is to go into the desired folder and use command 'touch' followed by a space and the name of the file.
+ ex. 'touch week1.js'
 
 # 7 - Run 'git --version' in your terminal. What is the output?
+ # 7 Answer: the version is 2.33.0
 
 # 8 - Why would you run the command 'git status'?
+ # 8 Answer: I would use command 'git status' when I wanted to see the location of the git clone, an example of this in the terminal shows my git status as 'on main branch' 
+ and it also shows me that I have not committed my changes/modifications of the code that I am working with in VS code, it has not been committed to git.
+
 
 # 9 - What does the command 'git add .' do?
+ # 9 Answer: the command 'git add .' is part of a two step process to keep the changes that we have made to the code in VS code. 
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+ # 10 Answer: the command to push the committed changes to the repo on GitHub is command ' git commit -m "brief message of changes made" '

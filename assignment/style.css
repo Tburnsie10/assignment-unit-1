@@ -1,3 +1,63 @@
+body {
+    background-color: #CC7722;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10% 11%;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+header {
+    background-color: darkgreen;
+    color: black;
+    font-family: fantasy;
+    margin: 0% 10%;
+    font-size: x-large;
+    text-align: center;
+
+}
+
+footer {
+    background-color: darkgreen;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: center;
+
+}
+
+ul {
+    text-align: left;
+}
+
+p {
+    background-color: blue;
+    font-family: italic;
+    color: white;
+
+
+}
+
+img {
+    border: 5px solid white;
+  }
+
+
+
+
+
+
+
+
 /* Give your page a fun background color */
 
 /* Make the header and footer a different color from the background */
