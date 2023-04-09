@@ -30,7 +30,9 @@
 
 
 # 9 - What does the command 'git add .' do?
- # 9 Answer: the command 'git add .' is part of a two step process to keep the changes that we have made to the code in VS code. 
+ # 9 Answer: the command 'git add .' is part of a two step process to keep the changes that we have made to the code in VS code. Git add itself
+ is the first step to that process, by adding a change in the working directory to the staging area. This is getting the updates ready for the
+ commit. 
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
- # 10 Answer: the command to push the committed changes to the repo on GitHub is command ' git commit -m "brief message of changes made" '
+ # 10 Answer: Use git push to push commits made on your local branch to a remote repository. 

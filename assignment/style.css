@@ -5,6 +5,8 @@ body {
     margin: 10% 11%;
 }
 
+
+
 h1 {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
@@ -28,6 +30,7 @@ header {
 
 footer {
     background-color: darkgreen;
+    
     color: black;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
