@@ -157,3 +157,53 @@ You can find detailed instructions on how to do this in this week's video conten
 
 Make sure that you answer this week's Slack discussion question (found each week in the left sidebar of the Tier 1 site) in your cohort's Slack channel!
 
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Change the <title> from "Page Title" to "Hello World" -->
+    <title>Hello World!</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <script src="helloWorld.js" charset="utf-8"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+
+</head>
+<body>
+    <!-- Create a header element  -->
+    <div class="container">
+
+<header>
+    <h1> Tyler Burns </h1>
+        <img src="https://i.ibb.co/1RC9c93/Tyler.png" alt="Tyler Picture"/>
+
+        <h2>Fun Facts about me!</h2>
+        <ul> 
+            <li> I play ping pong competitively.</li>
+            <li> I have been to over 20 different countries.</li>
+            <li> I consider myself somewhat of a history buff.</li>
+        </ul>
+        <footer>
+
+            
+            <p>You, me, or nobody is gonna hit as hard as life. But it ain’t about how hard you hit. It’s about how hard you can get hit and keep moving forward.</p>
+
+        </footer>
+
+</header>
+</div>
+    <!-- Inside the header, add an <h1> element containing your name -->
+
+    <!-- Include an image -->
+
+    <!-- Create an unordered list with 3 list items of fun facts about you -->
+
+    <!-- Create a footer element -->
+    <!--  -->
+
+    <!-- Inside your footer, put a <p> element with your favorite quote -->
+</body>
+</html>

@@ -40,10 +40,11 @@ footer {
 
 ul {
     text-align: left;
+    font-family: fantasy; 
 }
 
 p {
-    background-color: blue;
+    
     font-family: italic;
     color: white;
 
